@@ -2,7 +2,7 @@
 {
 	"VersionNumber"
 	{
-		"label" "rayshud vJEFF" 
+		"label" "jeffHUD v1.1" 
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}

@@ -1730,7 +1730,7 @@
 			"use_proportional_insets" "1"
 			"font"			"CerbeticaBold20"
 			"textAlignment"	"center"
-			"labelText"		"rayshud vJEFF"
+			"labelText"		"jeffHUD v1.1" //menu title
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"

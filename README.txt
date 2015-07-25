@@ -1,4 +1,4 @@
-The hud originally is made by rays but heavily tweaked by jeff.
+This hud is a heavily edited version of rayshud.
 All credits go to the original hud maker rays.
 
 
