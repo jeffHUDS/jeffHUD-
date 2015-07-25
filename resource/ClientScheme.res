@@ -64,8 +64,8 @@ Scheme
 		"Last DamageHeal Info"					"72 255 255 255"
 		
 		//Menu/Color scheme colors
-		"Base Color"				"15 255 255 255"
-		"Button Color"				"72 255 255 255"	
+		"Base Color"				"51 153 255 255"
+		"Button Color"				"255 255 255 255"	
 		
 		"Inactive Tab"				"15 100 100 255"	
 		
@@ -538,7 +538,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"antialias" 	"1"
 			}
@@ -555,7 +555,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"underline" "1"
@@ -563,7 +563,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -573,7 +573,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -581,7 +581,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -589,7 +589,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -598,7 +598,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -607,7 +607,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -616,7 +616,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -628,7 +628,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -636,14 +636,14 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -651,7 +651,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -659,7 +659,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"16"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -670,7 +670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -678,7 +678,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -686,7 +686,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -695,7 +695,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -704,7 +704,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"30"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -713,14 +713,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -731,7 +731,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "18"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -742,7 +742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -753,7 +753,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -763,7 +763,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"tall_lodef"	"80"
 				"additive"	"0"
@@ -771,7 +771,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"44"
 				"tall_hidef"	"120"
 				"additive"	"0"
@@ -779,21 +779,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "1"
@@ -803,7 +803,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "1"
@@ -814,7 +814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -825,7 +825,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -835,7 +835,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -845,7 +845,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -855,7 +855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -865,7 +865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -875,7 +875,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -885,7 +885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -895,7 +895,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -905,7 +905,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -915,7 +915,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -925,7 +925,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -935,7 +935,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -945,7 +945,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -955,7 +955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -967,7 +967,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -977,7 +977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -987,7 +987,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -997,7 +997,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1007,7 +1007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -1017,7 +1017,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1027,7 +1027,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1037,7 +1037,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1047,7 +1047,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1057,7 +1057,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -1099,7 +1099,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1109,7 +1109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1120,7 +1120,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1131,7 +1131,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1142,7 +1142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -1155,7 +1155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -1167,7 +1167,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1177,7 +1177,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1188,7 +1188,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1197,7 +1197,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1206,7 +1206,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1218,7 +1218,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -1291,7 +1291,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"KimberleyBL-Regular"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1300,7 +1300,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"KimberleyBL-Regular"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1310,7 +1310,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"KimberleyBL-Regular"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1319,7 +1319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"KimberleyBL-Regular"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1329,7 +1329,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"KimberleyBL-Regular"
+				"name"		"BlueHighway-Regular"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1362,7 +1362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1372,7 +1372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1383,7 +1383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1408,7 +1408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"BlueHighway-Regular"
 				"tall"			"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1418,7 +1418,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"BlueHighway-Regular"
 				"tall"			"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -1428,7 +1428,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -1438,7 +1438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"BlueHighway-Regular"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1449,7 +1449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
@@ -1460,7 +1460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -1471,7 +1471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1483,7 +1483,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1495,7 +1495,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1509,7 +1509,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1524,7 +1524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1534,7 +1534,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1544,7 +1544,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1553,7 +1553,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1562,7 +1562,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1575,7 +1575,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1586,7 +1586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1598,7 +1598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1652,7 +1652,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1752,7 +1752,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1765,7 +1765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1777,7 +1777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1830,7 +1830,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1840,7 +1840,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -1850,7 +1850,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1878,7 +1878,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -1888,7 +1888,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1928,7 +1928,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1938,7 +1938,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1949,7 +1949,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -1970,7 +1970,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1981,7 +1981,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2025,7 +2025,7 @@ Scheme
 		"1"
 			{
 				
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2035,7 +2035,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "13"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2045,7 +2045,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2055,7 +2055,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2065,7 +2065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"antialias" "1"
 				"weight"	"500"
@@ -2075,7 +2075,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2085,7 +2085,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2095,7 +2095,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -2105,7 +2105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"9"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2337,7 +2337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"12"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2400,7 +2400,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"11"
 				"additive"	"1"
 				"antialias" "1"
@@ -2410,7 +2410,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"14"
 				"additive"	"1"
 				"antialias" "1"
@@ -2420,7 +2420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2430,7 +2430,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"24"
 				"additive"	"1"
 				"antialias" "1"
@@ -2440,7 +2440,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"BlueHighway-Regular"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2881,7 +2881,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "7"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2891,7 +2891,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "8"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2901,7 +2901,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "9"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2911,7 +2911,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2921,7 +2921,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2931,7 +2931,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2941,7 +2941,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2951,7 +2951,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "22"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2962,7 +2962,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2972,7 +2972,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2983,7 +2983,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2993,7 +2993,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3003,7 +3003,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3013,7 +3013,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "40"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3023,7 +3023,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3033,7 +3033,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "52"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3043,7 +3043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "54"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3053,7 +3053,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "55"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3063,7 +3063,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3073,7 +3073,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "60"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3083,7 +3083,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3133,7 +3133,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Paragon Black"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -3316,7 +3316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "KimberleyBL-Regular"
+				"name"		 "BlueHighway-Regular"
 				"tall" 		 "124"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -6353,12 +6353,12 @@ Scheme
 			"font" "resource/fonts/Cerbetica_bold_medic.otf"
 			"name" "Cerbetica Bold Medic"
 		}
-		"15"
+		"15" //replaced Cerbetica_edited
 		{
-			"font" "resource/fonts/kimberley bl.otf"
-			"name" "KimberleyBI-Regular"
+			"font" "resource/fonts/blue highway rg.ttf"
+			"name" "BlueHighway-Regular"
 		}
-		"16"
+		"16" //replaced Cerbetica Bold
 		{
 			"font" "resource/fonts/Paragon Cleaners Black.ttf"
 			"name" "Paragon Black"

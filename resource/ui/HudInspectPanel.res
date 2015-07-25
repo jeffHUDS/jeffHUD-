@@ -13,7 +13,7 @@
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
 		
-		"model_ypos"		"10"
+		"model_ypos"		"15"
 		"model_center_x"	"1"
 		"model_wide"		"90"
 		"model_tall"		"60"
@@ -39,8 +39,8 @@
 			"tall" "900"
 			"autoResize" "0"
 			"pinCorner" "0"
-			"visible" "1"
-			"enabled" "1"
+			"visible" "0"
+			"enabled" "0"
 			"fillcolor" "0 0 0 100"
 		}
 		"TitleBackground"
@@ -54,8 +54,8 @@
 			"tall" "14"
 			"autoResize" "0"
 			"pinCorner" "0"
-			"visible" "1"
-			"enabled" "1"
+			"visible" "0"
+			"enabled" "0"
 			"fillcolor" "0 0 0 100"
 		}
 		
@@ -78,8 +78,8 @@
 			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"labelText"		"#FreezePanel_Item"
 			"textAlignment"	"Left"
 			"dulltext"		"0"

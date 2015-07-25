@@ -2767,7 +2767,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DemoUIButton"
-		"xpos"			"58"
+		"xpos"			"50"
 		"ypos"			"444"
 		"zpos"			"1"
 		"wide"			"100"
