@@ -4,7 +4,6 @@ All credits go to the original hud maker rays.
 
 
 TO-DO-LIST
--Improve spectator fonts
 -fix font sizes on engi ammo
 -feed back!
 
