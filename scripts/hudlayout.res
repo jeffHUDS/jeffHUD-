@@ -1264,16 +1264,16 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "r592"	[$WIN32]
+		"xpos"	 "r545"	[$WIN32]
 		"ypos"	 "12"	[$WIN32]
-		"wide"	 "585"
-		"tall"	 "475"
+		"wide"	 "540"
+		"tall"	 "520"
 
-		"MaxDeathNotices" "8"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "16"
-		"LineSpacing"	  "0"
-		"CornerRadius"	  "0"
+		"MaxDeathNotices" "6"
+		"IconScale"	  "0.25"
+		"LineHeight"	  "15"
+		"LineSpacing"	  "1"
+		"CornerRadius"	  "4"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"CerbeticaBold14"
