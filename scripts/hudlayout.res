@@ -1,7 +1,22 @@
 "Resource/HudLayout.res"
 {
 	//crosshairs
-	
+    "CrosshairName"   
+    {
+        "controlName"       "CExLabel"
+        "fieldName"         "CrosshairName"
+        "visible"           "1"
+        "enabled"           "1"
+        "zpos"              "1"
+        "xpos"              "c-25"
+        "ypos"              "c-25"
+        "wide"              "50"
+        "tall"              "50"
+        "font"              "size:30,outline:off"
+        "labelText"         "e"  //use knuckles crosshair pic in font file to choose
+        "textAlignment"     "center"
+        "fgcolor"           "255 255 255 255"
+    }	
 	Spookmaster
 	{
 		"controlName"	"CExLabel"
@@ -70,8 +85,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"BasicCross"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-102"
@@ -435,7 +450,7 @@
 		"xpos_hidef"	"308"
 		"ypos"			"190"
 		"zpos"			"-5"
-		"wide"			""
+		"wide"			"374"
 		"tall"			"38"
 		"tall_lodef"	"206"
 		"tall_hidef"	"212"
@@ -813,7 +828,7 @@
 	}
  
 	//end fighter pilot crosshair (4x3)
- 
+    //end of crosshairs
 
 	
 	
@@ -2166,5 +2181,5 @@
 		"wide" 			"f0"
 		"tall" 			"480"
 	}
-	
-}
+
+

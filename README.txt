@@ -4,10 +4,12 @@ All credits go to the original hud maker rays.
 
 
 TO-DO-LIST
--fix font sizes on engi ammo
--feed back!
+-edit scoreboard
+-edit menu
+
+NEW STUFF ADDED
+-Kunckles Crosses
+-Fixed font issues
 
 
-
-
-last edited 7/25/15
+last edited 7/31/15

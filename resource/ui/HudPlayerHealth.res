@@ -13,7 +13,7 @@
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
-		"HealthBonusPosAdj"	"35"
+		"HealthBonusPosAdj"	"40"
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}	
@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"90"
+		"xpos"			"60"
 		"ypos"			"0"
 		"zpos"			"4"
 		"wide"			"70"
@@ -49,12 +49,12 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"116"
-		"ypos"			"10"
+		"xpos"			"127"
+		"ypos"			"22"
 		"zpos"			"2"
-		"wide"			"68"	
-		"tall"			"68"	
-		"visible"		"0"
+		"wide"			"47"	
+		"tall"			"47"	
+		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
@@ -79,13 +79,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"2"
-		"ypos"			"2"
+		"xpos"			"9999" //set to 1 to enable shadow for health
+		"ypos"			"9999" //set to 1 to enable shadow for health
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"100"
-		"visible"		"0"
-		"enabled"		"1"
+		"visible"		"0" //set to 1 to enable shadow for health
+		"enabled"		"0" //set to 1 to enable shadow for health
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"CerbeticaBold56"

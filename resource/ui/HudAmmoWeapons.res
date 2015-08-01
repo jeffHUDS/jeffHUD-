@@ -59,8 +59,8 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"CerbeticaBold56"
 		"fgcolor"		"TransparentBlack"
-		"xpos"			"-300" //set -16 for shadow back
-		"ypos"			"-9"
+		"xpos"			"9999" //set -16 for shadow 
+		"ypos"			"9999" //set -10 for shadow
 		"zpos"			"5"
 		"wide"			"85"
 		"tall"			"80"
@@ -79,7 +79,7 @@
 		"xpos"			"67"
 		"ypos"			"-10"
 		"zpos"			"7"
-		"wide"			"50"
+		"wide"			"70"
 		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"
@@ -92,10 +92,10 @@
 		"fieldName"		"AmmoInReserveShadow"
 		"font"			"CerbeticaBold32"
 		"fgcolor"		"TransparentBlack"
-		"xpos"			"300" //set to 68 for shadow back
-		"ypos"			"-9"
+		"xpos"			"9999" //set to 67 for shadow back
+		"ypos"			"9999" //set to -9 for shadow back
 		"zpos"			"7"
-		"wide"			"75"
+		"wide"			"70"
 		"tall"			"80"
 		"visible"		"0" //set to 1 for shadow same below
 		"enabled"		"0"
@@ -108,10 +108,10 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"CerbeticaBold56"
 		"fgcolor"		"Ammo In Clip"
-		"xpos"			"26"
+		"xpos"			"-5"
 		"ypos"			"-11"
 		"zpos"			"5"
-		"wide"			"100"
+		"wide"			"120"
 		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"
@@ -125,8 +125,8 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"CerbeticaBold56"
 		"fgcolor"		"TransparentBlack"
-		"xpos"			"300" //change to 28 if you want the shadow
-		"ypos"			"-9"
+		"xpos"			"9999" //change to 28 if you want the shadow
+		"ypos"			"9999"   //change to -9 if you want the shadow
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"80"

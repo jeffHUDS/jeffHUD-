@@ -295,7 +295,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"86"
+		"xpos"			"85"
 		"ypos"			"35"
 		"zpos"			"100"
 		"wide"			"180"
@@ -1730,7 +1730,7 @@
 			"use_proportional_insets" "1"
 			"font"			"CerbeticaBold20"
 			"textAlignment"	"center"
-			"labelText"		"jeffHUD v1.1" //menu title
+			"labelText"		"v1.2" //menu title
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
