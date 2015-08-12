@@ -10,8 +10,8 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"		
+		"visible"		"0"
+		"enabled"		"0"		
 	}
 	"PlayerStatusClassImage"
 	{
@@ -22,8 +22,8 @@
 		"zpos"			"2"
 		"wide"			"35"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"	
 		"alpha"			"0"

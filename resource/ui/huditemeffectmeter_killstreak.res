@@ -3,8 +3,8 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"xpos"			"c-225"	[$WIN32]
 		"ypos"			"352"	[$WIN32]
 		"wide"			"100"
@@ -22,8 +22,8 @@
 		"zpos"			"0"
 		"wide"			"76"
 		"tall"			"44"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"		
 	}
@@ -77,8 +77,8 @@
 		"wide"					"100"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"center"
@@ -96,8 +96,8 @@
 		"wide"					"100"
 		"tall"					"20"	
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"fgcolor_override"		"TransparentBlack"
 		"labelText"				"%progresscount%"

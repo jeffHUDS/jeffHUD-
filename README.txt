@@ -8,7 +8,7 @@ TO-DO-LIST
 -edit menu
 
 NEW STUFF ADDED
--Kunckles Crosses
+-Knuckles Crosses
 -Fixed font issues
 
 
