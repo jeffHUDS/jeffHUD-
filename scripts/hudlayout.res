@@ -13,7 +13,7 @@
         "wide"              "50"
         "tall"              "50"
         "font"              "size:30,outline:off"
-        "labelText"         "e"  //use knuckles crosshair pic in font file to choose
+        "labelText"         "l"  //use knuckles crosshair pic in font file to choose
         "textAlignment"     "center"
         "fgcolor"           "255 255 255 255"
     }	
@@ -838,7 +838,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"-20"
-		"ypos"	"110"
+		"ypos"	"75"
 		"wide"	"f0"
 		"tall"	"480"
 	}
@@ -848,7 +848,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c90"
-		"ypos"	"c175"
+		"ypos"	"c140"
 		"wide"	"300" //was made 4 units taller in MvM update
 		"tall"	"300"
 	}
@@ -898,7 +898,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-150"	
-		"ypos"			"c20"	
+		"ypos"			"c-5"	
 		"wide"			"500"
 		"tall"			"500"
 	}
@@ -1031,7 +1031,7 @@
 	{
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"-40"
 		"wide"					"f0"
 		"tall"					"480"
 		"visible" 				"1"
